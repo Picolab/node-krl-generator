@@ -1,5 +1,7 @@
 # krl-generator
 
+MOVED TO https://github.com/Picolab/pico-engine/tree/master/packages/krl-generator
+
 [![build status](https://secure.travis-ci.org/Picolab/node-krl-generator.svg)](https://travis-ci.org/Picolab/node-krl-generator)
 
 Generate KRL code given krl-ast as input.
